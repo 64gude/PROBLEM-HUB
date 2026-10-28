@@ -12,3 +12,4 @@ desktop.ini
 # Temporary files
 *.tmp
 *.log
+push-to-github.bat
